@@ -10,3 +10,8 @@ Docker Image for Darknet ImageNet implementation
 `cat your_image.jpg | docker run -i think/darknet`
 
 will provide the predictions for all categories found in the image.
+
+## References
+
+ - based on [darknet](https://github.com/pjreddie/darknet.git)
+ - [weights](http://pjreddie.com/media/files/extraction.weights)
