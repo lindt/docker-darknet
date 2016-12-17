@@ -2,7 +2,7 @@
 [![Docker Build](https://img.shields.io/docker/automated/think/darknet.svg)](https://hub.docker.com/r/think/darknet/)
 [![Latest Tag](https://img.shields.io/github/tag/lindt/docker_darknet.svg)](https://hub.docker.com/r/think/darknet/)
 
-# docket-darknet
+# docker-darknet
 
 Docker Image for Darknet ImageNet implementation
 
